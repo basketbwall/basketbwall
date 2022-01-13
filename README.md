@@ -1,10 +1,5 @@
 ### Hi there 👋
-<a href="https://github.com/basketbwall/github-stats">
-
-![](https://github.com/basketbwall/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/basketbwall/github-stats/blob/master/generated/languages.svg)
-
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 - 🔭 I’m currently working on YouTube
 - 🌱 I’m currently learning Swift programming
 
