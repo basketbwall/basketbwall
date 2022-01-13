@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://github.com/jstrieb/github-stats">
+<a href="https://github.com/basketbwall/github-stats">
 
 ![](https://github.com/basketbwall/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/basketbwall/github-stats/blob/master/generated/languages.svg)
